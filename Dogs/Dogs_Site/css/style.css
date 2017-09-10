@@ -59,7 +59,7 @@ ul li{
 }
 
 .navigation ul li{
-	border-right:1px solid #CCCCCC;
+	border-right:1px solid #DDDDDD;
 	position:relative;
 	display:inline;		
 
@@ -75,11 +75,11 @@ ul li{
 }
 
 .navigation ul li a:hover{
-	color:#999999;
+	color:#555555;
 }
 
 .navigation ul li a.active{
-	color:#999999;
+	color:#555555;
 }
 
 .bdr, .pdg{
